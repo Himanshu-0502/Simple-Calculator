@@ -16,11 +16,16 @@ This is a simple web-based calculator built using HTML, CSS, and JavaScript. It 
     ```sh
     git clone https://github.com/Himanshu-0502/Simple-Calculator.git
     ```
+
 2. Navigate to the project directory:
     ```sh
     cd Simple-Calculator
     ```
-3. Open `index.html` in your web browser.
+
+3. Open `index.html` in your web browser:
+    ```sh
+    open index.html
+    ```
 
 ## Usage
 
