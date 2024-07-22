@@ -9,6 +9,7 @@ This is a simple web-based calculator built using HTML, CSS, and JavaScript. It 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Decimal point support.
 - Clear button to reset the calculation.
+- Simple and clean user interface.
 
 ## Installation
 
@@ -36,8 +37,8 @@ This is a simple web-based calculator built using HTML, CSS, and JavaScript. It 
 ## Files
 
 - `index.html`: The main HTML file for the calculator.
-- `style.css`: The CSS file for styling the calculator.
-- `app.js`: The JavaScript file containing the logic for the calculator.
+- `styles.css`: The CSS file for styling the calculator.
+- `script.js`: The JavaScript file containing the logic for the calculator.
 
 ## Acknowledgments
 
